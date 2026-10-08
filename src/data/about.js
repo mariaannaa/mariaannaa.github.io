@@ -1,7 +1,7 @@
 export const dataabout = {
   title: "",
   aboutme:
-    "I am a Copernicus Masters Digital Earth student in the final semester of my studies. I'm currently preparing to defend my thesis at the end of September, which focuses on the geovisualisation of mobility patterns using multisource data. \n Throughout my studies, I have developed a strong knowledge in geoinformatics and data visualisation methods. My background is in environmental geography as well as corporate consultancy experience, which complements my technical skills with a practical understanding. \n In my free time, I enjoy reading, exploring the outdoors, and triathlon training.",
+    "I am a Copernicus Master in Digital Earth graduate, with a background in environmental geography and a strong interest in geospatial analysis and data visualisation. My master's thesis focused on the geovisualisation of mobility patterns using multisource data. \n Throughout my studies and practical projects, I developed skills in GIS, spatial data processing, Python and geovisualisation. I also bring experience in corporate consultancy, which has strengthened my analytical thinking, communication and problem-solving skills. I am currently developing my SQL and PostgreSQL/PostGIS skills through hands-on projects, with a growing interest in spatial databases and automation. \n Outside of GIS, I enjoy reading, exploring the outdoors and training for triathlons.",
 };
 
 export const worktimeline = [
